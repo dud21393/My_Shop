@@ -1,0 +1,97 @@
+header:hover{
+    
+}
+section{
+}
+.product{
+    font-size: 45px;
+    font-family: MD개성체;
+    color: darkred;
+    width:200px;
+}
+.subject{
+    font-size:40px;
+    font-family: MD개성체;
+}
+
+nav{
+    width: 1550px;
+    height:100px;
+    margin:auto;
+    position:relative;
+    padding-bottom: 80px;
+    padding-top: 100px;
+}
+nav ul{
+    list-style: none;
+}
+nav ul li{
+    display:inline;
+    float :left;
+    margin-top:20px;
+    margin-right:20px;
+    margin-left:45px;
+    font-size:30px;
+    font-family: MD개성체;
+}
+nav ul li ul li{
+    font-size: 20px;
+}
+nav a{
+    padding:6px 40px 9px;
+    color: black;
+    text-decoration: none;
+    text-shadow: 0 1px 1px black;
+}
+nav a:hover {
+    text-decoration: none;
+    color: gray;
+    text-shadow: none;
+    font-weight: bold;
+}
+.left_one:hover{
+    background-color: white;
+    color: #9d9d9d;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+.left_two:hover{
+    background-color: white;
+    color: black;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+header{
+    text-align:center;
+    width: 1300px;
+    margin:auto;
+}
+.fix{
+    top:555px;
+    right:60px;
+    width: 200px;
+    position: fixed;
+    height: 500px;
+}
+article{
+    width:1200px;
+    margin: auto;
+    padding-top: 50px;
+}
+footer{
+    width:1200px;
+    margin: auto;
+    border-left: 2px solid;
+    border-right: 2px solid;
+    border-bottom: 2px solid;
+    font-family: MD개성체;
+}
+.top{
+    text-decoration: none;
+    text-align: right;
+    background-color: gainsboro;
+
+}
+ul .sub{
+    font-size: 20px;
+}
